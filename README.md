@@ -10,7 +10,7 @@
 完成 3/17 課程的作業，並通過助教審核
 
 ## 環境
-虛擬機檔案載點：[點我](https://1drv.ms/f/s!AiGk-SANRb91iB_7utC_rNRQyIN4?e=wWR2Hi)
+虛擬機檔案載點：[點我](https://drive.google.com/file/d/1hRD0UoNMt8flW2SJuIZf5L5QojCcTlm-/view?usp=drive_link)
 
 本次課程需要以下工具，請在上課前自行安裝或直接使用我提供的虛擬機檔案
 
