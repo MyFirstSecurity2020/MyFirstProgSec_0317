@@ -1,0 +1,6 @@
+# Cheat Sheet
+
+## Socat
+```
+socat TCP-LISTEN:<PORT>,fork EXEC:'timeout <TIME_LIMIT> <command>'
+```
