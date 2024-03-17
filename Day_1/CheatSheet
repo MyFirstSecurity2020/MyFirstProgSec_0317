@@ -4,3 +4,9 @@
 ```
 socat TCP-LISTEN:<PORT>,fork EXEC:'timeout <TIME_LIMIT> <command>'
 ```
+
+## Secure Option
+trun off canary
+```
+-fno-stack-protector
+```
