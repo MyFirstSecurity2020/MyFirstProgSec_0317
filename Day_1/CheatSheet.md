@@ -10,3 +10,8 @@ trun off canary
 ```
 -fno-stack-protector
 ```
+
+turn off NX
+```
+-z execstack
+```
