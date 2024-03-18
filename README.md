@@ -13,6 +13,8 @@
 ## 環境
 虛擬機檔案載點：[分流1](https://drive.google.com/file/d/1hRD0UoNMt8flW2SJuIZf5L5QojCcTlm-/view?usp=drive_link) [分流2](https://drive.google.com/file/d/1zU_TVs8zIIAM1xKYzYwdKRVys4KDFQdv/view?usp=sharing)
 
+[匯入虛擬機圖解](https://hackmd.io/@Flydragon/how2ovf)
+
 本次課程需要以下工具，請在上課前自行安裝或直接使用我提供的虛擬機檔案
 
 1. GNU
