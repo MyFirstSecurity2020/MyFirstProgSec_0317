@@ -15,3 +15,8 @@ turn off NX
 ```
 -z execstack
 ```
+
+turn off pie
+```
+-no-pie
+```
