@@ -20,3 +20,17 @@ turn off pie
 ```
 -no-pie
 ```
+
+## Gdb attach to pwntools process
+exploit: 
+```
+raw_input()
+```
+
+gdb:
+```
+gdb ./<BINARY>
+```
+```
+at
+```
