@@ -2,19 +2,19 @@
 - 本課程屬於初階的入門課程
 - 課程主要內容在簡報，此處主要是放指令和程式碼方便複製  
 
-▲直播線上課程(Google Meet)連結(將於6/15(六)與6/22(六)8:50開啟)：https://meet.google.com/khs-ohxg-bpo
+▲ 直播線上課程(Google Meet)連結：https://meet.google.com/khs-ohxg-bpo
 
-▲課程簽到(表單開啟時間8:00)：
-6/16(六) 簽到：https://forms.gle/ab9kDqK1j3LfCvDj8
-6/22(六) 簽到：https://forms.gle/jVk9eSCecwRK24dE7
+▲ 課程簽到(表單開啟時間8:00)：  
+6/16(六) 簽到：https://forms.gle/ab9kDqK1j3LfCvDj8  
+6/22(六) 簽到：https://forms.gle/jVk9eSCecwRK24dE7  
 
-▲課程作業繳交表單：https://forms.gle/XNMDdgkmHfrUMunA9
+▲ 課程作業繳交表單：https://forms.gle/XNMDdgkmHfrUMunA9  
 開放繳交時間：6/16(日)00:00~6/23(日)23:59
 
-▲課程CTF平台： 140.110.112.217
+▲ 課程CTF平台： 140.110.112.217  
 開啟時間：6/15(六) 8:00-6/23(日)23:59
 
-▲回饋問卷調查：https://forms.gle/sQbmV16ugGfoVnm16
+▲ 回饋問卷調查：https://forms.gle/sQbmV16ugGfoVnm16  
 開放時間：6/22(六)下午13:00-6/23(日)23:59
 
 ## 課前準備
@@ -23,7 +23,7 @@
 - 安裝所需工具或使用我提供的虛擬機檔案
 
 ## 證書發放標準
-完成 3/17 課程的作業，並通過助教審核
+解題平台達到 400 分以上，或是 200 分加上解題報告。
 
 ## 環境
 虛擬機檔案載點：[分流1](https://drive.google.com/file/d/1hRD0UoNMt8flW2SJuIZf5L5QojCcTlm-/view?usp=drive_link) [分流2](https://drive.google.com/file/d/1zU_TVs8zIIAM1xKYzYwdKRVys4KDFQdv/view?usp=sharing)
