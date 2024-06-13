@@ -1,4 +1,4 @@
-# MyFirstProgramSec_0317
+# MyFirstProgramSec
 - 本課程屬於初階的入門課程
 - 課程主要內容在簡報，此處主要是放指令和程式碼方便複製  
 
@@ -19,7 +19,7 @@
 
 ## 課前準備
 - 練習虛擬機使用和 Linux 基本指令
-- 請加入 [Discord 群組](https://discord.gg/hQYXb7RYV4)
+- 請加入 [Discord 群組](https://discord.gg/9G9eqSUyWA)
 - 安裝所需工具或使用我提供的虛擬機檔案
 
 ## 證書發放標準
