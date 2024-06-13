@@ -2,13 +2,20 @@
 - 本課程屬於初階的入門課程
 - 課程主要內容在簡報，此處主要是放指令和程式碼方便複製  
 
-▲課程作業繳交表單：https://forms.gle/bWuRhd8Yt7STwjrX8  
-開放繳交時間：3/24(日)00:00-3/28(四)23:59  
-(請同學注意繳交時間，逾時不候，表單可重複填寫，只會保留最終填寫的檔案，請確認檔案資料無誤再繳交。)  
+▲直播線上課程(Google Meet)連結(將於6/15(六)與6/22(六)8:50開啟)：https://meet.google.com/khs-ohxg-bpo
 
-▲回饋問卷調查：https://forms.gle/ee6nB98vazuKm5ASA  
-開放時間：3/23(六)下午13:00-23:59  
-再次提醒：課後務必填寫問卷調查。  
+▲課程簽到(表單開啟時間8:00)：
+6/16(六) 簽到：https://forms.gle/ab9kDqK1j3LfCvDj8
+6/22(六) 簽到：https://forms.gle/jVk9eSCecwRK24dE7
+
+▲課程作業繳交表單：https://forms.gle/XNMDdgkmHfrUMunA9
+開放繳交時間：6/16(日)00:00~6/23(日)23:59
+
+▲課程CTF平台： 140.110.112.217
+開啟時間：6/15(六) 8:00-6/23(日)23:59
+
+▲回饋問卷調查：https://forms.gle/sQbmV16ugGfoVnm16
+開放時間：6/22(六)下午13:00-6/23(日)23:59
 
 ## 課前準備
 - 練習虛擬機使用和 Linux 基本指令
@@ -47,11 +54,4 @@ sudo apt install python2
 sudo apt install python-pip
 python2 -m pip install --upgrade pip==20.3.4
 python2 -m pip install --upgrade pwntools
-```
-5. IDA  
-
-安裝有問題的話嘗試以下指令
-```
-sudo apt install xorg-dev
-sudo apt install libxcb-xinerama0
 ```
