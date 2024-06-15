@@ -5,7 +5,7 @@
 ▲ 直播線上課程(Google Meet)連結：https://meet.google.com/khs-ohxg-bpo
 
 ▲ 課程簽到(表單開啟時間8:00)：  
-6/16(六) 簽到：https://forms.gle/ab9kDqK1j3LfCvDj8  
+6/15(六) 簽到：https://forms.gle/ab9kDqK1j3LfCvDj8  
 6/22(六) 簽到：https://forms.gle/jVk9eSCecwRK24dE7  
 
 ▲ 課程作業繳交表單：https://forms.gle/XNMDdgkmHfrUMunA9  
