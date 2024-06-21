@@ -23,7 +23,10 @@
 - 安裝所需工具或使用我提供的虛擬機檔案
 
 ## 證書發放標準
-解題平台達到 400 分以上，或是 200 分+加分作業。
+完成以下其一即可
+1. 解題平台達到 400 分以上
+2. 解題平台達到 200 分並撰寫解題報告。
+3. 完成第一天課程的作業並製作報告
 
 ## 環境
 虛擬機檔案載點：[分流1](https://drive.google.com/file/d/1hRD0UoNMt8flW2SJuIZf5L5QojCcTlm-/view?usp=drive_link) [分流2](https://drive.google.com/file/d/1zU_TVs8zIIAM1xKYzYwdKRVys4KDFQdv/view?usp=sharing)
